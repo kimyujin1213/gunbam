@@ -27,3 +27,17 @@ h1 span{display:block;font-size:20px;padding-bottom:10px;}
 .sidemenu a{color:#000;}
 .aside dt{font:bold 170% "NGothic",Arial;color:#999;}
 .aside dt .all{text-decoration:underline;}
+.aside dt .love{color:#fa0;border-bottom:1px solid #fa0;}
+.aside dt strong{color:#333;/*border:none;*/}
+.aside a{color:#000;}
+.aside span{display:block;}
+dt,dd{padding:10px;}
+address{font:bold normal 100% "NGothic",Arial;padding:10px;
+         background:#123456;color:#eee;text-align:center;}
+address a{color:#eee;}
+</style></head>
+<body>
+  <div id="wrapper">
+  <div id="header">
+    <h1>암사동 선사 유적 박물관<span>Amsa-dong Prehistoric Site Museum</span>
+    
