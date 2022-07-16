@@ -8,3 +8,22 @@ body{font:13px"NGothic",Arial;backgound:#aaa;}
 /* Layout */
 #wrapper{width:800px;margin:0 auto;backgound:#fff;}
 #header{text-align:center;background:#fa0;color:#fff;}
+#container{float:left;width:100%;}
+  .cover{float:left;width:600px;}
+    .content{float:right;width:400px;backgound:#ddd;color:#123456;}
+    .sidemenu{float:left;width:200px;}
+  .aside{float:right;width:200px;}
+#footer{clear:both;}
+/* Detail */
+a{font-weight:bold;}
+a:hover{border-bottom:1px dashed;}
+h1{font-size:800%;}
+h1 span{display:block;font-size:20px;padding-bottom:10px;}
+.stit{background:#ccc;color:#333;padding:5px;}
+.content dt a{display:block;color:#ddd;font:bold 130% "NGothic",Arial;
+         padding:5px;text-decoration:none;background:#123456;}
+.content dt + dd{font-weight:bold;font-size:120%;}
+.sidemenu dt{font:bold 130% "NGothic",Arial;background:#900;color:#fff;}
+.sidemenu a{color:#000;}
+.aside dt{font:bold 170% "NGothic",Arial;color:#999;}
+.aside dt .all{text-decoration:underline;}
