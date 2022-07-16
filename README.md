@@ -41,4 +41,4 @@ address a{color:#eee;}
   <div id="header">
     <h1>암사동 선사 유적 박물관<span>Amsa-dong Prehistoric Site Museum<span>
     </h1>
-    <p class="stit">서울에서 가장 오래된 마을, 서울 암사동 유적입니다.</p>
+    <p class="stit">서울에서 가장 오래된 마을, 서울 암사동 유적입니다.<span>세계 속의 문화유산이 되기 위한 도약</span></p>
