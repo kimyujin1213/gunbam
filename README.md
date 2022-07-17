@@ -39,12 +39,12 @@ address a{color:#eee;}
 <body>
   <div id="wrapper">
   <div id="header">
-    <h1>암사동 선사 유적 박물관<span>Amsa-dong Prehistoric Site Museum<span>
+    <h1>Musee d'Orsay<span>Musee d'Orsay Musee d'Orsay Musee d'Orsay Musee d'OrsayMusee d'Orsay </span>
     </h1>
-    <p class="stit">서울에서 가장 오래된 마을, 서울 암사동 유적입니다.<span>세계 속의 문화유산이 되기 위한 도약</span></p>
-       </div>
+    <p class="stit">Royal Academy of Arts.<span>THE REAL VANGOGH</span>THE ARTIST AND HIS LETTERS</p>
+  </div>
   <div id="container">
    <div class="cover">
     <div class="content">
-         <dl><dt><a href="#">갈판</a></dt>
-        <dd>암사동 1974</dd>
+         <dl><dt><a href="#">피리부는 소년</a></dt>
+        <dd>에두아르마네</dd>
