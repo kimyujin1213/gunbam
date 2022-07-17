@@ -62,4 +62,29 @@ address a{color:#eee;}
     <dl><dt><a href="#">만종</a></dt>
         <dd class="artist">장 프랑수아 밀레</dd>
         <dd>1857-1859 캔버스에 유채,55.5*66cm,파리 오르세 Jean-Franqois Millet, L'Angelus H/T, 55.5*66cm</dd></dl>
-        
+    <dl><dt><a href="#">제비꽃장식을 단 베르트모리조</a></dt>
+        <dd class="artist">에두아르마네</dd>
+        <dd>1872 Eduouard Manet Berthe Morisot au bouquet de H/T, 55*38cm</dd></dl>
+    </div>
+    <dl class="sidemenu">
+    <dt>ARTIST</dt>
+    <dd><a href="#">작가의 작품</a></dd>
+    <dd><a href="#">작가의 시대</a></dd>
+    <dd><a href="#">작가의 일생</a></dd>
+    </dl>
+  </div>
+  <dl class="aside">
+   <dt><span class="all">전세계인들에게</span><span class="love">제일 사랑받는</span><strong>서양미술사의 시대</strong</dt>
+   <dd><a href="#">Workshop Go</a> <span>Life drowing workshop</span></dd>
+   <dd><a href="#">Summer exhibition</a> <span>A-level Summer Exibition Online 2010</span></dd>
+   <dd><a href="#">RA collection</a> <span>RA Collection</span></dd>
+  </dl>
+  </div>
+  <div id="footer">
+      <address>ⓒ 2012 Les Amis du Musee d'Orsay. All right reserved.
+    <a href="#">ami s@amis-musee-orsay.org</a><span>Legal status</span>
+     </address>
+    </div>
+  </div>
+  </body>
+  </html>
