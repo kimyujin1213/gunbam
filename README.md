@@ -48,3 +48,18 @@ address a{color:#eee;}
     <div class="content">
          <dl><dt><a href="#">피리부는 소년</a></dt>
         <dd>에두아르마네</dd>
+        <dd>1866 캔버스에 유채, 161*97cm, 파리 오르세 Edouard MANET, Le Fifre, H.T, 161*97cm</dd></dl>
+    <dl><dt><a href="#">고흐의 밤</a></dt>
+        <dd class="artist">빈센트반고흐</dd>
+        <dd>1889 캔버스에 유채,57.5*74cm,파리 오르세Vincent Van GOGH,La Chambre de Van Gogh,H/T,57.5*74cm</dd><dl>
+    <dl><dt><a href="#">황색 그리스도가 있는 화가의 자화상</a></dt>
+        <dd class="artist">폴 고갱</dd>
+        <dd>1890-1891 캔버스에 유채,38*46cm,파리 오르세 Paul Gauguin Portrait de I'artiste au Paul Gauguin, H/T,38*46cm</dd><dl>
+    <dl><dt><a href="#">오페라좌의 관혁안단</a></dt>
+        <dd class="artist">에드가 드가</dd>
+        <dd>1868-1869 캔버스에 유채,32*46cm,파리 오르세 Edgar Degas, L'orchestre de I'Opera H/T, 38*46cm</dd></dl>
+
+    <dl><dt><a href="#">만종</a></dt>
+        <dd class="artist">장 프랑수아 밀레</dd>
+        <dd>1857-1859 캔버스에 유채,55.5*66cm,파리 오르세 Jean-Franqois Millet, L'Angelus H/T, 55.5*66cm</dd></dl>
+        
